@@ -19,6 +19,8 @@ RUN apt-get update && apt-get -y upgrade \
     texlive-extra-utils \
     texlive-latex-extra \
     biber chktex latexmk make python3-pygments python3-pkg-resources \
+    texlive-science \
+    texlive-bibtex-extra \
     texlive-lang-chinese \
     texlive-lang-japanese
 
